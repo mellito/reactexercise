@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 // import "./toursapp/index.css";
 // import "./reviewsapp/index.css";
 // import "./accordionapp/index.css";
-import "./slider/index.css";
+import "./colorgenerator/index.css";
 
 //ejercicio1
 // import Reviews from "./reviewsapp/App.js";
@@ -16,7 +16,7 @@ import "./slider/index.css";
 // import Accordion from "./accordionapp/App";
 
 //menu
-import Menu from "./slider/App";
+import Menu from "./colorgenerator/App";
 
 ReactDOM.render(
   <React.StrictMode>
